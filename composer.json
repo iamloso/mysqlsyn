@@ -1,0 +1,12 @@
+{
+    "name": "mysqlsyn/mysqlsyn",
+    "description": "一种规范, 维护sql的shell脚步.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "loso",
+            "email": "iamloso@126.com"
+        }
+    ],
+    "require": {}
+}
